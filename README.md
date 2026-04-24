@@ -1,2 +1,14 @@
-# secure-login-system
-A secure Flask-based login system with password hashing (bcrypt), input validation, SQL injection protection, session management, and user authentication
+# Secure Login System
+
+A Flask-based secure login system with:
+
+## Features
+- Password hashing (bcrypt)
+- Input validation
+- Protection from SQL injection
+- Session management
+- Login & Register UI
+
+## Run
+pip install flask bcrypt
+python app.py
